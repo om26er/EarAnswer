@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:paddingLeft="8dp"
-        android:text="Auto answer call when phone is brought near ear"/>
+        android:text="Automatically Answer calls when phone is brought near the ear."/>
 
     <View
         android:layout_width="fill_parent"
